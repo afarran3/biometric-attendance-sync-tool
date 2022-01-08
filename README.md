@@ -39,6 +39,7 @@ The `erpnext_sync.py` file is the "backbone" of this project. Apart from Windows
     cd biometric-attendance-sync-tool
       && python3 -m venv venv
       && source venv/bin/activate
+      && pip install wheel
       && pip install -r requirements.txt
     ```
 2. Setup `local_config.py`
