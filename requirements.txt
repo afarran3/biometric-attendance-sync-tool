@@ -1,4 +1,5 @@
 requests
+wheel
 pickledb
 pyzk
-PyQt5
+PyQt5==5.12.2
